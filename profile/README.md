@@ -26,4 +26,4 @@ Multi-featured Telegram Bots Dev.
 - [Group (Telegram)](https://t.me/The_Friend_Circle)
 
 ---
-With 💕, by @MrNitric.
+With 💕 by @MrNitric.
